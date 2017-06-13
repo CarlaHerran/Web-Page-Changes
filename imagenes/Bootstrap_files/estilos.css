@@ -1,0 +1,129 @@
+header {
+  color:#fff;
+  display: block;
+}
+
+.name {
+  font-size: 130px;
+  font-family: 'Roboto Mono', monospace;
+  text-shadow: 3px 3px grey;
+  color: white;
+  margin: auto;
+}
+
+.main {
+  background:#f2f2f2;
+}
+
+.color1 {
+  background: #34495e;
+  color:#fff;
+}
+
+aside {
+  background:#c0392b;
+  color:#fff;
+}
+
+footer {
+  background:#16a085;
+  color:#fff;
+}
+
+.descripcion {
+  color: blue;
+
+}
+
+.foto {
+  display: block;
+    margin: auto;
+    width: 25%;
+    border-radius: 70%;
+}
+
+button {
+  margin: auto;
+}
+
+body {
+    background-image: url("http://68.media.tumblr.com/c8a81bb0221980c44ee57f947aa3c84d/tumblr_n8ctq1QY9f1ruulogo1_400.gif");
+    background-color: #cccccc;
+    background-size: 1900px;
+}
+
+.dropdown {
+  width: 90%;
+  height: auto;
+  margin: auto;
+}
+
+.info {
+  font-family:'Roboto Mono', monospace;
+  text-align: center;
+  margin: auto;
+}
+.nav li{
+
+width: 25%;
+text-align: center;
+font-family: 'Gloria Hallelujah';
+font-size: 30px;
+color: #000000;
+}
+
+.titulo {
+  font-family: 'Roboto Mono', monospace;
+}
+
+
+
+
+
+/* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+    border-radius: 50%;
+
+}
+
+/* Twitter */
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+    border-radius: 50%;
+
+}
+
+.fa-instagram {
+background: #F0E68C;
+color: #F0E68C;
+border-radius: 50%;
+}
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,197 @@
+header {
+  color:#fff;
+  display: block;
+}
+
+.name {
+  font-size: 130px;
+  width: bold;
+  font-family: 'Francois One', sans-serif;
+  text-shadow: 3px 3px #ffffcc;
+  color: #709d9c;
+  margin: auto;
+}
+
+.main {
+  background:#f2f2f2;
+}
+
+.color1 {
+  background: #34495e;
+  color:#fff;
+}
+
+aside {
+  background:#c0392b;
+  color:#fff;
+}
+
+
+
+.descripcion {
+  color: blue;
+
+}
+
+.foto {
+  display: block;
+    margin: auto;
+    width: 13%;
+    border-radius: 10%;
+    border: 10px;
+    border-color: red;
+}
+
+button {
+  margin: auto;
+}
+
+body {
+    background-image: url("http://68.media.tumblr.com/c8a81bb0221980c44ee57f947aa3c84d/tumblr_n8ctq1QY9f1ruulogo1_400.gif");
+    background-color: #cccccc;
+    background-size: 1900px;
+}
+
+.dropdown {
+  width: 90%;
+  height: auto;
+  margin: auto;
+}
+
+.info {
+  font-family:'Roboto Mono', monospace;
+  text-align: center;
+  margin: auto;
+}
+.nav li{
+
+width: 25%;
+text-align: center;
+font-family: 'Gloria Hallelujah';
+font-size: 30px;
+color: #000000;
+}
+
+blockquote{
+
+    border-left:none
+}
+
+.pull-left-box {
+    margin-right: 20px;
+    margin-bottom: 6px;
+}
+
+
+.quote-badge{
+    background-color: rgba(0, 0, 0, 0.2);   
+}
+
+.quote-box{
+    
+    overflow: hidden;
+    margin-top: -50px;
+    padding-top: -100px;
+    border-radius: 17px;
+    background-color: #4ADFCC;
+    margin-top: 25px;
+    color:white;
+    width: 325px;
+    box-shadow: 2px 2px 2px 2px #E0E0E0;
+    margin: auto ;
+    
+}
+
+.quotation-mark{
+    
+    margin-top: -10px;
+    font-weight: bold;
+    font-size:100px;
+    color:white;
+    font-family: "Times New Roman", Georgia, Serif;
+    
+}
+
+.quote-text{
+    
+    font-size: 19px;
+    margin-top: -65px;
+}
+.titulo {
+ font-family: 'Roboto Mono', monospace;
+}
+
+.Texto-contenido {
+  font-family: 'Special Elite', cursive;
+  font-size: 20px;
+  text-align: justify;
+}
+
+#demo {
+  text-align: justify;
+
+}
+
+
+
+#TDSanexo {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+/* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+    border-radius: 50%;
+
+}
+
+/* Twitter */
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+    border-radius: 50%;
+
+}
+
+.fa-instagram {
+background: #F0E68C;
+color: black;
+border-radius: 50%;
+}
+
+.fa-github {
+  background: #660066;
+color: white;
+border-radius: 50%;
+}
+
+.buttons {
+margin-right: 20px;
+margin-bottom: 20px;
+margin-left: 20px;
+
+}
+
+.btn-purple{
+  background-color: #6e9caa !important;
+  color: whitesmoke; 
+}
+
